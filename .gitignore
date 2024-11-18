@@ -1,0 +1,47 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+
+# Flask instance folder
+instance/
+
+# Flask environment files
+.env
+.env.*
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# Pytest cache
+.cache/
+
+# Python distribution packages
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# VS Code settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Pycharm
+.idea/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Flask migrations
+migrations/
